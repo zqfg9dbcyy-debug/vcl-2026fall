@@ -1,7 +1,7 @@
 #include <algorithm>
 #include <string>
 
-#include <fmt/core.h>
+#include <fmt/format.h>
 
 #include "imgui_impl_opengl3.h"
 
